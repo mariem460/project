@@ -1,0 +1,175 @@
+#logo{
+    width: 50px;
+    height: 90px;
+}
+
+
+p{
+    font-size: large;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(68, 60, 60);
+    justify-content: start;
+}
+
+.tab {
+    padding-left: 40%;
+    padding-top: 1%;
+    
+}
+#homePage{
+    font-size: 10px;
+    color: black ;
+    text-transform: uppercase;
+}
+
+#paragaph1{
+    font-size: 20px;
+}
+
+.tab button:hover {
+    background-color: rgb(134, 92, 92);
+  }
+
+.container{ 
+    background-image: url(https://blog.hubspot.com/hubfs/web-development.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+    background-repeat: no-repeat;
+    
+  
+}
+
+h1{
+    text-align: center;
+    color: orange;
+    padding-left: 10px;
+}
+
+#periode{
+    color: orange;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 60%;
+    padding-left: -10%;
+    padding-top: 30px;
+   
+}
+
+
+#offer{
+    color: black;
+    font-size: 90px;
+}
+
+.offercontainer{
+    left: 10%;
+    right: 20%;
+    margin-top: -50px;
+    margin-left: 25%;
+    width: 47%;
+    height: 70%;
+   
+}
+
+ul{
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+#course{
+    font-size: 90px;
+}
+
+.firstcourse{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+
+}
+#foto2{
+    padding-left: 10%;
+}
+
+#webdevelopment{
+    background-image: url(https://axiomq.com/wp-content/uploads/2020/05/developer-1.jpg);
+    background-repeat: no-repeat;
+    opacity: 78%;
+    height: 300px;
+    padding-top: 4%;
+   
+
+}
+.digital{
+    padding-left: 25%;
+    font-size: 40px;
+    color: rgb(240, 239, 235);
+    padding-bottom: 3%;
+    
+}
+
+a{
+    color: rgb(14, 13, 13);
+    padding: 1em 1.5em;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: rgba(65, 59, 59, 0.178);
+    cursor: pointer;
+  }
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top  : 10px;
+    background-color: #e0b96f;
+    color: #fff;
+
+}
+
+.community{
+    text-align: center;
+    font-size: 30px;
+    padding-top:90px ;
+   
+}
+#toggleImage{
+    width: 50%;
+    height: 40%;
+    padding-left: 25%; 
+}   
+#linkfooter{
+    color: rgb(138, 44, 44);
+    padding-left: 40%;
+    width: 20%;
+}
+
+
+
+body{
+    height: 100%;
+    width: 100%;
+}
